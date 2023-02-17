@@ -10,7 +10,7 @@
 ![1_HkJ1zgWQTOHDsRRoNfuIVg](https://user-images.githubusercontent.com/118783310/219518081-03653c49-075b-42a5-8871-20685869211d.gif)
 
 # What do I do in my free time?
- ### Fun fact: I'm also a part-time magician
+ ### I'm a part-time magician as well :)
 ![shutterstock_268167050-bb92691a-6e4e3d30@450ll](https://user-images.githubusercontent.com/118783310/219522916-17ce279d-d94d-4acd-8626-6813e3c47fab.jpg)
 
 
