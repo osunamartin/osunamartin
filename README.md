@@ -3,7 +3,7 @@
 
 # What am I studying right now?
  ### I’m currently starting my first year at Quilmes University while I learn how to use tools such as Git or VSCode and new programming languages through internet.
- Lately I've been working with HTML, CSS and Javascript, Python (vanilla and Django framework) and MySql Databases for my own projects.
+ ### Lately I've been working with HTML, CSS and Javascript, Python (vanilla and Django framework) and MySql Databases for my own projects.
  ![Sin título](https://user-images.githubusercontent.com/118783310/219520581-cbd42990-c95b-41a1-ba81-9feaa1a618d3.png)
 
 # What am I looking for?
