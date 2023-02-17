@@ -1,10 +1,9 @@
 # Who am I?
- ### My name is Martin and I'm a 26 years old developer from Buenos Aires. I'm bilingual (Spanish-English) and my favourite programming languages are Python and Javascript, and also love everything related with SQL.
- ![Sin título](https://user-images.githubusercontent.com/118783310/219520581-cbd42990-c95b-41a1-ba81-9feaa1a618d3.png)
+ ### My name is Martin and I'm a 26 years old developer from Buenos Aires. I'm speak Spanish-English and my favourite programming languages are Python and Javascript, and also love everything related with SQL. Since I got my first computer (almost 20 years ago) I got obsessed with learning how to use every single tool my PC was offering. Everything was written in english, so I also been studying languages since then (I speak I little bit of italian as well).
 
-# What am I studying?
+# What am I studying right now?
  ### I’m currently starting my first year at Quilmes University while I learn how to use tools such as Git or VSCode and new programming languages through internet.
- ![giphy](https://user-images.githubusercontent.com/118783310/219517608-87a1c98b-0f20-46ba-a849-c5a7a4f05672.gif)
+ ![Sin título](https://user-images.githubusercontent.com/118783310/219520581-cbd42990-c95b-41a1-ba81-9feaa1a618d3.png)
 
 # What am I looking for?
  ### I've always been passionate about software, that's why I'm looking for new challenges in order to learn how to build it and satisfy all of my company needs. 
@@ -12,7 +11,8 @@
 
 # What do I do in my free time?
  ### Fun fact: I'm also a part-time magician
-![riffle-shuffle-world-xm](https://user-images.githubusercontent.com/118783310/219518934-c7da3937-fcd9-40b5-9045-34349ae061b5.gif)
+![shutterstock_268167050-bb92691a-6e4e3d30@450ll](https://user-images.githubusercontent.com/118783310/219522916-17ce279d-d94d-4acd-8626-6813e3c47fab.jpg)
+
 
 
 
