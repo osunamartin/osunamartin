@@ -3,7 +3,7 @@
  ![Sin título](https://user-images.githubusercontent.com/118783310/219520581-cbd42990-c95b-41a1-ba81-9feaa1a618d3.png)
 
 # What am I studying?
- ### I’m currently starting my first year at Quilmes University while I learn how to use tools such as Git and VSCode through internet.
+ ### I’m currently starting my first year at Quilmes University while I learn how to use tools such as Git or VSCode and new programming languages through internet.
  ![giphy](https://user-images.githubusercontent.com/118783310/219517608-87a1c98b-0f20-46ba-a849-c5a7a4f05672.gif)
 
 # What am I looking for?
