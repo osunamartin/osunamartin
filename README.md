@@ -2,7 +2,7 @@
  ### My name is Martin and I'm a 26 years old developer from Buenos Aires. I speak Spanish and English, while my favourite programming languages are Python and Javascript, and also love everything related with SQL. Since I got my first computer (almost 20 years ago) I got obsessed with learning how to use every single tool my PC was offering. Everything was written in english, so I also been studying languages since then (I speak I little bit of italian as well).
 
 # What am I studying right now?
- ### I’m currently starting my first year at Quilmes University while I learn how to use tools such as Git or VSCode and new programming languages through internet.
+ ### I’m currently starting my first programming year at Quilmes University while I learn how to use tools such as Git or VSCode and new programming languages through internet.
  ### Lately I've been working with HTML, CSS and Javascript, Python (vanilla and Django framework) and MySql Databases for my own projects.
  ![Sin título](https://user-images.githubusercontent.com/118783310/219520581-cbd42990-c95b-41a1-ba81-9feaa1a618d3.png)
 
